@@ -1,5 +1,5 @@
-<h1 align="center">Bonjour 👋, je suis Hassiba ZEROUKLANE</h1>
-<h3 align="center">Master 2 chef de projet Intelligence Artificielle & Big Data</h3>
+<h1 align="center">Hello 👋, I'm Hassiba ZEROUKLANE</h1>
+<h3 align="center">chef de projet Intelligence Artificielle & Big Data</h3>
 
 - 🌱 J'apprends actuellement * *intelligence artificielle(Data Analyst)**
 
